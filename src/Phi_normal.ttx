@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.68">
+  <GlyphOrder src="Phi_normal.GlyphOrder.ttx"/>
+  <head src="Phi_normal._h_e_a_d.ttx"/>
+  <hhea src="Phi_normal._h_h_e_a.ttx"/>
+  <maxp src="Phi_normal._m_a_x_p.ttx"/>
+  <OS_2 src="Phi_normal.O_S_2f_2.ttx"/>
+  <hmtx src="Phi_normal._h_m_t_x.ttx"/>
+  <cmap src="Phi_normal._c_m_a_p.ttx"/>
+  <cvt src="Phi_normal._c_v_t.ttx"/>
+  <loca src="Phi_normal._l_o_c_a.ttx"/>
+  <glyf src="Phi_normal._g_l_y_f.ttx"/>
+  <name src="Phi_normal._n_a_m_e.ttx"/>
+  <post src="Phi_normal._p_o_s_t.ttx"/>
+  <gasp src="Phi_normal._g_a_s_p.ttx"/>
+  <FFTM src="Phi_normal.F_F_T_M_.ttx"/>
+  <GDEF src="Phi_normal.G_D_E_F_.ttx"/>
+  <GPOS src="Phi_normal.G_P_O_S_.ttx"/>
+  <GSUB src="Phi_normal.G_S_U_B_.ttx"/>
+  <PfEd src="Phi_normal.P__fE__d.ttx"/>
+</ttFont>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.68">
+  <glyf>
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+    <TTGlyph name="n" xMin="0" yMin="-99" xMax="797" yMax="749">
+      <contour>
+        <pt x="338" y="474" on="1"/>
+        <pt x="338" y="474" on="0"/>
+        <pt x="409" y="332" on="1"/>
+        <pt x="174" y="546" on="1"/>
+        <pt x="168" y="585" on="1"/>
+        <pt x="341" y="721" on="1"/>
+        <pt x="375" y="739" on="1"/>
+        <pt x="401" y="725" on="1"/>
+        <pt x="416" y="532" on="1"/>
+        <pt x="404" y="556" on="0"/>
+        <pt x="392" y="580" on="1"/>
+        <pt x="369" y="663" on="1"/>
+        <pt x="271" y="568" on="1"/>
+        <pt x="318" y="506" on="1"/>
+      </contour>
+      <contour>
+        <pt x="525" y="-99" on="1"/>
+        <pt x="486" y="-48" on="1"/>
+        <pt x="467" y="296" on="1"/>
+        <pt x="500" y="735" on="1"/>
+        <pt x="529" y="749" on="1"/>
+        <pt x="564" y="733" on="1"/>
+        <pt x="550" y="278" on="1"/>
+        <pt x="556" y="-75" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="265" on="1"/>
+        <pt x="0" y="315" on="1"/>
+        <pt x="797" y="315" on="1"/>
+        <pt x="797" y="265" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+  </glyf>
+</ttFont>

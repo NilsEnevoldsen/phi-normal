@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.68">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-125"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni0001"/>
+      <psName name="uni0002"/>
+      <psName name="uni0003"/>
+      <psName name="uni0004"/>
+      <psName name="uni0005"/>
+      <psName name="uni009A"/>
+      <psName name="uni009B"/>
+      <psName name="uni009C"/>
+      <psName name="uni009D"/>
+      <psName name="uni009E"/>
+      <psName name="uni009F"/>
+      <psName name="uni00AD"/>
+      <psName name="uni00B2"/>
+      <psName name="uni00B3"/>
+      <psName name="uni00B9"/>
+      <psName name="uni0137"/>
+      <psName name="eng"/>
+      <psName name="uni0163"/>
+      <psName name="tcaron"/>
+      <psName name="uni01C6"/>
+      <psName name="uni01E5"/>
+      <psName name="gcaron"/>
+      <psName name="uni01E9"/>
+      <psName name="uni0252"/>
+      <psName name="uni0259"/>
+      <psName name="uni0261"/>
+      <psName name="uni0262"/>
+      <psName name="uni0263"/>
+      <psName name="uni026C"/>
+      <psName name="uni026E"/>
+      <psName name="uni0274"/>
+      <psName name="uni0281"/>
+      <psName name="theta"/>
+      <psName name="phi"/>
+      <psName name="chi"/>
+      <psName name="wdieresis"/>
+      <psName name="uni203D"/>
+      <psName name="uni2070"/>
+      <psName name="uni2074"/>
+      <psName name="uni2075"/>
+      <psName name="uni2076"/>
+      <psName name="uni2077"/>
+      <psName name="uni2078"/>
+      <psName name="uni2079"/>
+      <psName name="uni2080"/>
+      <psName name="uni2081"/>
+      <psName name="uni2082"/>
+      <psName name="uni2083"/>
+      <psName name="uni2084"/>
+      <psName name="uni2085"/>
+      <psName name="uni2086"/>
+      <psName name="uni2087"/>
+      <psName name="uni2088"/>
+      <psName name="uni2089"/>
+      <psName name="uni215F"/>
+      <psName name="uni2160"/>
+      <psName name="uni2161"/>
+      <psName name="uni2162"/>
+      <psName name="uni2163"/>
+      <psName name="uni2164"/>
+      <psName name="uni2165"/>
+      <psName name="uni2166"/>
+      <psName name="uni2167"/>
+      <psName name="uni2168"/>
+      <psName name="uni2169"/>
+      <psName name="uni2E18"/>
+      <psName name="uniFFF0"/>
+      <psName name="minus_zero.liga"/>
+      <psName name="minus_one.liga"/>
+      <psName name="minus_two.liga"/>
+      <psName name="minus_three.liga"/>
+      <psName name="minus_four.liga"/>
+      <psName name="minus_five.liga"/>
+      <psName name="minus_six.liga"/>
+      <psName name="minus_seven.liga"/>
+      <psName name="minus_eight.liga"/>
+      <psName name="minus_nine.liga"/>
+      <psName name="plus_one.liga"/>
+      <psName name="plus_two.liga"/>
+      <psName name="plus_three.liga"/>
+      <psName name="plus_fout.liga"/>
+      <psName name="plus_five.liga"/>
+      <psName name="plus_six.liga"/>
+      <psName name="plus_seven.liga"/>
+      <psName name="plus_eight.liga"/>
+      <psName name="plus_nine.liga"/>
+      <psName name="plus_zero.liga"/>
+      <psName name="plus_y.liga"/>
+      <psName name="plus_x.liga"/>
+      <psName name="minus_y.liga"/>
+      <psName name="minus_x.liga"/>
+    </extraNames>
+  </post>
+
+</ttFont>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.68">
+  <glyf>
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+    <TTGlyph name="quotesingle" xMin="0" yMin="12" xMax="797" yMax="621">
+      <contour>
+        <pt x="101" y="150" on="1"/>
+        <pt x="140" y="177" on="1"/>
+        <pt x="270" y="180" on="1"/>
+        <pt x="306" y="158" on="1"/>
+        <pt x="270" y="132" on="1"/>
+        <pt x="131" y="124" on="1"/>
+      </contour>
+      <contour>
+        <pt x="754" y="12" on="1"/>
+        <pt x="696" y="17" on="1"/>
+        <pt x="626" y="61" on="1"/>
+        <pt x="536" y="117" on="1"/>
+        <pt x="403" y="276" on="1"/>
+        <pt x="195" y="565" on="1"/>
+        <pt x="172" y="621" on="1"/>
+        <pt x="249" y="589" on="1"/>
+        <pt x="488" y="278" on="1"/>
+        <pt x="618" y="136" on="1"/>
+        <pt x="710" y="80" on="1"/>
+        <pt x="738" y="34" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="265" on="1"/>
+        <pt x="0" y="315" on="1"/>
+        <pt x="797" y="315" on="1"/>
+        <pt x="797" y="265" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+  </glyf>
+</ttFont>

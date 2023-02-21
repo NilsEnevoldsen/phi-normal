@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.68">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x1" name="uni0001"/><!-- ???? -->
+      <map code="0x2" name="uni0002"/><!-- ???? -->
+      <map code="0x3" name="uni0003"/><!-- ???? -->
+      <map code="0x4" name="uni0004"/><!-- ???? -->
+      <map code="0x5" name="uni0005"/><!-- ???? -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x9a" name="uni009A"/><!-- ???? -->
+      <map code="0x9b" name="uni009B"/><!-- ???? -->
+      <map code="0x9c" name="uni009C"/><!-- ???? -->
+      <map code="0x9d" name="uni009D"/><!-- ???? -->
+      <map code="0x9e" name="uni009E"/><!-- ???? -->
+      <map code="0x9f" name="uni009F"/><!-- ???? -->
+      <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
+      <map code="0xb2" name="uni00B2"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="uni00B3"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb9" name="uni00B9"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0x10d" name="ccaron"/><!-- LATIN SMALL LETTER C WITH CARON -->
+      <map code="0x137" name="uni0137"/><!-- LATIN SMALL LETTER K WITH CEDILLA -->
+      <map code="0x14b" name="eng"/><!-- LATIN SMALL LETTER ENG -->
+      <map code="0x161" name="scaron"/><!-- LATIN SMALL LETTER S WITH CARON -->
+      <map code="0x163" name="uni0163"/><!-- LATIN SMALL LETTER T WITH CEDILLA -->
+      <map code="0x165" name="tcaron"/><!-- LATIN SMALL LETTER T WITH CARON -->
+      <map code="0x17e" name="zcaron"/><!-- LATIN SMALL LETTER Z WITH CARON -->
+      <map code="0x1c6" name="uni01C6"/><!-- LATIN SMALL LETTER DZ WITH CARON -->
+      <map code="0x1e5" name="uni01E5"/><!-- LATIN SMALL LETTER G WITH STROKE -->
+      <map code="0x1e7" name="gcaron"/><!-- LATIN SMALL LETTER G WITH CARON -->
+      <map code="0x1e9" name="uni01E9"/><!-- LATIN SMALL LETTER K WITH CARON -->
+      <map code="0x252" name="uni0252"/><!-- LATIN SMALL LETTER TURNED ALPHA -->
+      <map code="0x259" name="uni0259"/><!-- LATIN SMALL LETTER SCHWA -->
+      <map code="0x261" name="uni0261"/><!-- LATIN SMALL LETTER SCRIPT G -->
+      <map code="0x262" name="uni0262"/><!-- LATIN LETTER SMALL CAPITAL G -->
+      <map code="0x263" name="uni0263"/><!-- LATIN SMALL LETTER GAMMA -->
+      <map code="0x26c" name="uni026C"/><!-- LATIN SMALL LETTER L WITH BELT -->
+      <map code="0x26e" name="uni026E"/><!-- LATIN SMALL LETTER LEZH -->
+      <map code="0x274" name="uni0274"/><!-- LATIN LETTER SMALL CAPITAL N -->
+      <map code="0x281" name="uni0281"/><!-- LATIN LETTER SMALL CAPITAL INVERTED R -->
+      <map code="0x3b8" name="theta"/><!-- GREEK SMALL LETTER THETA -->
+      <map code="0x3c0" name="pi"/><!-- GREEK SMALL LETTER PI -->
+      <map code="0x3c6" name="phi"/><!-- GREEK SMALL LETTER PHI -->
+      <map code="0x3c7" name="chi"/><!-- GREEK SMALL LETTER CHI -->
+      <map code="0x1e85" name="wdieresis"/><!-- LATIN SMALL LETTER W WITH DIAERESIS -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
+      <map code="0x2070" name="uni2070"/><!-- SUPERSCRIPT ZERO -->
+      <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
+      <map code="0x2075" name="uni2075"/><!-- SUPERSCRIPT FIVE -->
+      <map code="0x2076" name="uni2076"/><!-- SUPERSCRIPT SIX -->
+      <map code="0x2077" name="uni2077"/><!-- SUPERSCRIPT SEVEN -->
+      <map code="0x2078" name="uni2078"/><!-- SUPERSCRIPT EIGHT -->
+      <map code="0x2079" name="uni2079"/><!-- SUPERSCRIPT NINE -->
+      <map code="0x2080" name="uni2080"/><!-- SUBSCRIPT ZERO -->
+      <map code="0x2081" name="uni2081"/><!-- SUBSCRIPT ONE -->
+      <map code="0x2082" name="uni2082"/><!-- SUBSCRIPT TWO -->
+      <map code="0x2083" name="uni2083"/><!-- SUBSCRIPT THREE -->
+      <map code="0x2084" name="uni2084"/><!-- SUBSCRIPT FOUR -->
+      <map code="0x2085" name="uni2085"/><!-- SUBSCRIPT FIVE -->
+      <map code="0x2086" name="uni2086"/><!-- SUBSCRIPT SIX -->
+      <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
+      <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
+      <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
+      <map code="0x215f" name="uni215F"/><!-- FRACTION NUMERATOR ONE -->
+      <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
+      <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
+      <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
+      <map code="0x2163" name="uni2163"/><!-- ROMAN NUMERAL FOUR -->
+      <map code="0x2164" name="uni2164"/><!-- ROMAN NUMERAL FIVE -->
+      <map code="0x2165" name="uni2165"/><!-- ROMAN NUMERAL SIX -->
+      <map code="0x2166" name="uni2166"/><!-- ROMAN NUMERAL SEVEN -->
+      <map code="0x2167" name="uni2167"/><!-- ROMAN NUMERAL EIGHT -->
+      <map code="0x2168" name="uni2168"/><!-- ROMAN NUMERAL NINE -->
+      <map code="0x2169" name="uni2169"/><!-- ROMAN NUMERAL TEN -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x2e18" name="uni2E18"/><!-- INVERTED INTERROBANG -->
+      <map code="0xfff0" name="uniFFF0"/><!-- ???? -->
+    </cmap_format_4>
+    <cmap_format_0 platformID="1" platEncID="0" language="0">
+      <map code="0x0" name=".null"/>
+      <map code="0x1" name="uni0001"/>
+      <map code="0x2" name="uni0002"/>
+      <map code="0x3" name="uni0003"/>
+      <map code="0x4" name="uni0004"/>
+      <map code="0x5" name="uni0005"/>
+      <map code="0x8" name=".null"/>
+      <map code="0x9" name="nonmarkingreturn"/>
+      <map code="0xd" name="nonmarkingreturn"/>
+      <map code="0x1d" name=".null"/>
+      <map code="0x20" name="space"/>
+      <map code="0x21" name="exclam"/>
+      <map code="0x22" name="quotedbl"/>
+      <map code="0x27" name="quotesingle"/>
+      <map code="0x2a" name="asterisk"/>
+      <map code="0x2b" name="plus"/>
+      <map code="0x2c" name="comma"/>
+      <map code="0x2d" name="hyphen"/>
+      <map code="0x2e" name="period"/>
+      <map code="0x2f" name="slash"/>
+      <map code="0x30" name="zero"/>
+      <map code="0x31" name="one"/>
+      <map code="0x32" name="two"/>
+      <map code="0x33" name="three"/>
+      <map code="0x34" name="four"/>
+      <map code="0x35" name="five"/>
+      <map code="0x36" name="six"/>
+      <map code="0x37" name="seven"/>
+      <map code="0x38" name="eight"/>
+      <map code="0x39" name="nine"/>
+      <map code="0x3a" name="colon"/>
+      <map code="0x3f" name="question"/>
+      <map code="0x58" name="X"/>
+      <map code="0x59" name="Y"/>
+      <map code="0x5e" name="asciicircum"/>
+      <map code="0x61" name="a"/>
+      <map code="0x62" name="b"/>
+      <map code="0x64" name="d"/>
+      <map code="0x65" name="e"/>
+      <map code="0x66" name="f"/>
+      <map code="0x67" name="g"/>
+      <map code="0x68" name="h"/>
+      <map code="0x69" name="i"/>
+      <map code="0x6a" name="j"/>
+      <map code="0x6b" name="k"/>
+      <map code="0x6c" name="l"/>
+      <map code="0x6d" name="m"/>
+      <map code="0x6e" name="n"/>
+      <map code="0x6f" name="o"/>
+      <map code="0x70" name="p"/>
+      <map code="0x71" name="q"/>
+      <map code="0x72" name="r"/>
+      <map code="0x73" name="s"/>
+      <map code="0x74" name="t"/>
+      <map code="0x75" name="u"/>
+      <map code="0x76" name="v"/>
+      <map code="0x77" name="w"/>
+      <map code="0x78" name="x"/>
+      <map code="0x79" name="y"/>
+      <map code="0x7a" name="z"/>
+      <map code="0xa9" name="copyright"/>
+      <map code="0xb9" name="pi"/>
+      <map code="0xbf" name="oslash"/>
+      <map code="0xc0" name="questiondown"/>
+      <map code="0xc7" name="guillemotleft"/>
+      <map code="0xd2" name="quotedblleft"/>
+      <map code="0xd5" name="quoteright"/>
+    </cmap_format_0>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x1" name="uni0001"/><!-- ???? -->
+      <map code="0x2" name="uni0002"/><!-- ???? -->
+      <map code="0x3" name="uni0003"/><!-- ???? -->
+      <map code="0x4" name="uni0004"/><!-- ???? -->
+      <map code="0x5" name="uni0005"/><!-- ???? -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x9a" name="uni009A"/><!-- ???? -->
+      <map code="0x9b" name="uni009B"/><!-- ???? -->
+      <map code="0x9c" name="uni009C"/><!-- ???? -->
+      <map code="0x9d" name="uni009D"/><!-- ???? -->
+      <map code="0x9e" name="uni009E"/><!-- ???? -->
+      <map code="0x9f" name="uni009F"/><!-- ???? -->
+      <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
+      <map code="0xb2" name="uni00B2"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="uni00B3"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb9" name="uni00B9"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0x10d" name="ccaron"/><!-- LATIN SMALL LETTER C WITH CARON -->
+      <map code="0x137" name="uni0137"/><!-- LATIN SMALL LETTER K WITH CEDILLA -->
+      <map code="0x14b" name="eng"/><!-- LATIN SMALL LETTER ENG -->
+      <map code="0x161" name="scaron"/><!-- LATIN SMALL LETTER S WITH CARON -->
+      <map code="0x163" name="uni0163"/><!-- LATIN SMALL LETTER T WITH CEDILLA -->
+      <map code="0x165" name="tcaron"/><!-- LATIN SMALL LETTER T WITH CARON -->
+      <map code="0x17e" name="zcaron"/><!-- LATIN SMALL LETTER Z WITH CARON -->
+      <map code="0x1c6" name="uni01C6"/><!-- LATIN SMALL LETTER DZ WITH CARON -->
+      <map code="0x1e5" name="uni01E5"/><!-- LATIN SMALL LETTER G WITH STROKE -->
+      <map code="0x1e7" name="gcaron"/><!-- LATIN SMALL LETTER G WITH CARON -->
+      <map code="0x1e9" name="uni01E9"/><!-- LATIN SMALL LETTER K WITH CARON -->
+      <map code="0x252" name="uni0252"/><!-- LATIN SMALL LETTER TURNED ALPHA -->
+      <map code="0x259" name="uni0259"/><!-- LATIN SMALL LETTER SCHWA -->
+      <map code="0x261" name="uni0261"/><!-- LATIN SMALL LETTER SCRIPT G -->
+      <map code="0x262" name="uni0262"/><!-- LATIN LETTER SMALL CAPITAL G -->
+      <map code="0x263" name="uni0263"/><!-- LATIN SMALL LETTER GAMMA -->
+      <map code="0x26c" name="uni026C"/><!-- LATIN SMALL LETTER L WITH BELT -->
+      <map code="0x26e" name="uni026E"/><!-- LATIN SMALL LETTER LEZH -->
+      <map code="0x274" name="uni0274"/><!-- LATIN LETTER SMALL CAPITAL N -->
+      <map code="0x281" name="uni0281"/><!-- LATIN LETTER SMALL CAPITAL INVERTED R -->
+      <map code="0x3b8" name="theta"/><!-- GREEK SMALL LETTER THETA -->
+      <map code="0x3c0" name="pi"/><!-- GREEK SMALL LETTER PI -->
+      <map code="0x3c6" name="phi"/><!-- GREEK SMALL LETTER PHI -->
+      <map code="0x3c7" name="chi"/><!-- GREEK SMALL LETTER CHI -->
+      <map code="0x1e85" name="wdieresis"/><!-- LATIN SMALL LETTER W WITH DIAERESIS -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
+      <map code="0x2070" name="uni2070"/><!-- SUPERSCRIPT ZERO -->
+      <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
+      <map code="0x2075" name="uni2075"/><!-- SUPERSCRIPT FIVE -->
+      <map code="0x2076" name="uni2076"/><!-- SUPERSCRIPT SIX -->
+      <map code="0x2077" name="uni2077"/><!-- SUPERSCRIPT SEVEN -->
+      <map code="0x2078" name="uni2078"/><!-- SUPERSCRIPT EIGHT -->
+      <map code="0x2079" name="uni2079"/><!-- SUPERSCRIPT NINE -->
+      <map code="0x2080" name="uni2080"/><!-- SUBSCRIPT ZERO -->
+      <map code="0x2081" name="uni2081"/><!-- SUBSCRIPT ONE -->
+      <map code="0x2082" name="uni2082"/><!-- SUBSCRIPT TWO -->
+      <map code="0x2083" name="uni2083"/><!-- SUBSCRIPT THREE -->
+      <map code="0x2084" name="uni2084"/><!-- SUBSCRIPT FOUR -->
+      <map code="0x2085" name="uni2085"/><!-- SUBSCRIPT FIVE -->
+      <map code="0x2086" name="uni2086"/><!-- SUBSCRIPT SIX -->
+      <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
+      <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
+      <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
+      <map code="0x215f" name="uni215F"/><!-- FRACTION NUMERATOR ONE -->
+      <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
+      <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
+      <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
+      <map code="0x2163" name="uni2163"/><!-- ROMAN NUMERAL FOUR -->
+      <map code="0x2164" name="uni2164"/><!-- ROMAN NUMERAL FIVE -->
+      <map code="0x2165" name="uni2165"/><!-- ROMAN NUMERAL SIX -->
+      <map code="0x2166" name="uni2166"/><!-- ROMAN NUMERAL SEVEN -->
+      <map code="0x2167" name="uni2167"/><!-- ROMAN NUMERAL EIGHT -->
+      <map code="0x2168" name="uni2168"/><!-- ROMAN NUMERAL NINE -->
+      <map code="0x2169" name="uni2169"/><!-- ROMAN NUMERAL TEN -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x2e18" name="uni2E18"/><!-- INVERTED INTERROBANG -->
+      <map code="0xfff0" name="uniFFF0"/><!-- ???? -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.68">
+
+  <GSUB>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="hyphen">
+            <Ligature components="x" glyph="minus_x.liga"/>
+            <Ligature components="X" glyph="minus_x.liga"/>
+            <Ligature components="y" glyph="minus_y.liga"/>
+            <Ligature components="Y" glyph="minus_y.liga"/>
+            <Ligature components="nine" glyph="minus_nine.liga"/>
+            <Ligature components="eight" glyph="minus_eight.liga"/>
+            <Ligature components="seven" glyph="minus_seven.liga"/>
+            <Ligature components="six" glyph="minus_six.liga"/>
+            <Ligature components="five" glyph="minus_five.liga"/>
+            <Ligature components="four" glyph="minus_four.liga"/>
+            <Ligature components="three" glyph="minus_three.liga"/>
+            <Ligature components="two" glyph="minus_two.liga"/>
+            <Ligature components="one" glyph="minus_one.liga"/>
+            <Ligature components="zero" glyph="minus_zero.liga"/>
+          </LigatureSet>
+          <LigatureSet glyph="plus">
+            <Ligature components="x" glyph="plus_x.liga"/>
+            <Ligature components="X" glyph="plus_x.liga"/>
+            <Ligature components="y" glyph="plus_y.liga"/>
+            <Ligature components="Y" glyph="plus_y.liga"/>
+            <Ligature components="zero" glyph="plus_zero.liga"/>
+            <Ligature components="nine" glyph="plus_nine.liga"/>
+            <Ligature components="eight" glyph="plus_eight.liga"/>
+            <Ligature components="seven" glyph="plus_seven.liga"/>
+            <Ligature components="six" glyph="plus_six.liga"/>
+            <Ligature components="five" glyph="plus_five.liga"/>
+            <Ligature components="four" glyph="plus_fout.liga"/>
+            <Ligature components="three" glyph="plus_three.liga"/>
+            <Ligature components="two" glyph="plus_two.liga"/>
+            <Ligature components="one" glyph="plus_one.liga"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
