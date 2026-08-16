@@ -7,7 +7,7 @@
     <fontRevision value="3.0"/>
     <checkSumAdjustment value="0x7d546f4d"/>
     <magicNumber value="0x5f0f3cf5"/>
-    <flags value="00000000 00011111"/>
+    <flags value="00000000 00011101"/>
     <unitsPerEm value="1000"/>
     <created value="Fri Oct 12 11:29:49 2018"/>
     <modified value="Tue Feb 21 07:37:25 2023"/>

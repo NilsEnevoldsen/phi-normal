@@ -3,7 +3,7 @@
   <glyf>
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
-    <TTGlyph name="uni215F" xMin="110" yMin="113" xMax="479" yMax="689">
+    <TTGlyph name="uni215F" xMin="111" yMin="113" xMax="479" yMax="688">
       <contour>
         <pt x="374" y="676" on="1"/>
         <pt x="459" y="597" on="1"/>
