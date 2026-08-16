@@ -6,24 +6,26 @@
       Copyright (c) 2023 Phie (Stas.tk).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+
+Modifications copyright (c) 2026 Nils Enevoldsen
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
-      Phi_normal_3.0
+      Phi_normal_3.1 (Scryfall variant)
     </namerecord>
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      FontForge : Phi_normal_3.0 : 21-2-2023
+      Phi_normal_3.1 (Scryfall variant) : Version 003.100
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      Phi_normal_3.0
+      Phi_normal_3.1 (Scryfall variant)
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 003.000 
+      Version 003.100
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
-      Phi_normal_3.0
+      Phi_normal_3.1-ScryfallVariant
     </namerecord>
   </name>
 
