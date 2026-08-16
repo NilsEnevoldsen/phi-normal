@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.68">
+  <glyf>
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+    <TTGlyph name="u1D4E8" xMin="0" yMin="62" xMax="432" yMax="743">
+      <contour>
+        <pt x="219" y="392" on="1"/>
+        <pt x="178" y="406" on="1"/>
+        <pt x="188" y="368" on="1"/>
+        <pt x="5" y="612" on="1"/>
+        <pt x="14" y="660" on="1"/>
+        <pt x="51" y="637" on="1"/>
+        <pt x="193" y="448" on="1"/>
+        <pt x="190" y="446" on="1"/>
+      </contour>
+      <contour>
+        <pt x="386" y="743" on="1"/>
+        <pt x="432" y="711" on="1"/>
+        <pt x="225" y="391" on="1"/>
+        <pt x="35" y="62" on="1"/>
+        <pt x="0" y="71" on="1"/>
+        <pt x="5" y="137" on="1"/>
+        <pt x="164" y="421" on="1"/>
+        <pt x="363" y="728" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+  </glyf>
+</ttFont>

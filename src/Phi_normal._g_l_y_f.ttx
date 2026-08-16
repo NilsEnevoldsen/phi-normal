@@ -87,6 +87,8 @@
     <TTGlyph src="Phi_normal._g_l_y_f.u.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.u1D_4B_3.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.u1D_4B_4.ttx"/>
+    <TTGlyph src="Phi_normal._g_l_y_f.u1D_4E_7.ttx"/>
+    <TTGlyph src="Phi_normal._g_l_y_f.u1D_4E_8.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00A_D_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00B_2.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00B_3.ttx"/>
@@ -132,7 +134,6 @@
     <TTGlyph src="Phi_normal._g_l_y_f.uni2166.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni2167.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni2168.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.uni2169.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni2E_18.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.v.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.w.ttx"/>

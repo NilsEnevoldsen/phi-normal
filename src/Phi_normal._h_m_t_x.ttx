@@ -87,6 +87,8 @@
     <mtx name="u" width="797" lsb="0"/>
     <mtx name="u1D4B3" width="727" lsb="27"/>
     <mtx name="u1D4B4" width="727" lsb="37"/>
+    <mtx name="u1D4E7" width="423" lsb="-6"/>
+    <mtx name="u1D4E8" width="432" lsb="0"/>
     <mtx name="uni00AD" width="797" lsb="0"/>
     <mtx name="uni00B2" width="472" lsb="32"/>
     <mtx name="uni00B3" width="522" lsb="32"/>
@@ -132,7 +134,6 @@
     <mtx name="uni2166" width="596" lsb="96"/>
     <mtx name="uni2167" width="683" lsb="154"/>
     <mtx name="uni2168" width="720" lsb="156"/>
-    <mtx name="uni2169" width="423" lsb="-6"/>
     <mtx name="uni2E18" width="351" lsb="-245"/>
     <mtx name="v" width="797" lsb="0"/>
     <mtx name="w" width="797" lsb="0"/>

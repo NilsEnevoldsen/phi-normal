@@ -76,7 +76,7 @@
       <psName name="uni2166"/>
       <psName name="uni2167"/>
       <psName name="uni2168"/>
-      <psName name="uni2169"/>
+      <psName name="u1D4E7"/>
       <psName name="uni2E18"/>
       <psName name="minus_zero.liga"/>
       <psName name="minus_one.liga"/>
@@ -102,6 +102,7 @@
       <psName name="plus_x.liga"/>
       <psName name="minus_y.liga"/>
       <psName name="minus_x.liga"/>
+      <psName name="u1D4E8"/>
     </extraNames>
   </post>
 

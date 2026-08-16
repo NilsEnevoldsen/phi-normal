@@ -116,7 +116,7 @@
     <GlyphID id="110" name="uni2166"/>
     <GlyphID id="111" name="uni2167"/>
     <GlyphID id="112" name="uni2168"/>
-    <GlyphID id="113" name="uni2169"/>
+    <GlyphID id="113" name="u1D4E7"/>
     <GlyphID id="114" name="minus"/>
     <GlyphID id="115" name="uni2E18"/>
     <GlyphID id="116" name="minus_zero.liga"/>
@@ -143,6 +143,7 @@
     <GlyphID id="137" name="plus_x.liga"/>
     <GlyphID id="138" name="minus_y.liga"/>
     <GlyphID id="139" name="minus_x.liga"/>
+    <GlyphID id="140" name="u1D4E8"/>
   </GlyphOrder>
 
 </ttFont>
