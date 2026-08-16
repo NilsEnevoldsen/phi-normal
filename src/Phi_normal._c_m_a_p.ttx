@@ -75,7 +75,6 @@
       <map code="0x1e9" name="uni01E9"/><!-- LATIN SMALL LETTER K WITH CARON -->
       <map code="0x252" name="uni0252"/><!-- LATIN SMALL LETTER TURNED ALPHA -->
       <map code="0x259" name="uni0259"/><!-- LATIN SMALL LETTER SCHWA -->
-      <map code="0x261" name="uni0261"/><!-- LATIN SMALL LETTER SCRIPT G -->
       <map code="0x262" name="uni0262"/><!-- LATIN LETTER SMALL CAPITAL G -->
       <map code="0x263" name="uni0263"/><!-- LATIN SMALL LETTER GAMMA -->
       <map code="0x26c" name="uni026C"/><!-- LATIN SMALL LETTER L WITH BELT -->
@@ -193,7 +192,6 @@
       <map code="0x1e9" name="uni01E9"/><!-- LATIN SMALL LETTER K WITH CARON -->
       <map code="0x252" name="uni0252"/><!-- LATIN SMALL LETTER TURNED ALPHA -->
       <map code="0x259" name="uni0259"/><!-- LATIN SMALL LETTER SCHWA -->
-      <map code="0x261" name="uni0261"/><!-- LATIN SMALL LETTER SCRIPT G -->
       <map code="0x262" name="uni0262"/><!-- LATIN LETTER SMALL CAPITAL G -->
       <map code="0x263" name="uni0263"/><!-- LATIN SMALL LETTER GAMMA -->
       <map code="0x26c" name="uni026C"/><!-- LATIN SMALL LETTER L WITH BELT -->
