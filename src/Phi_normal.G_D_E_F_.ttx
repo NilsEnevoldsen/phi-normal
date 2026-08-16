@@ -14,7 +14,6 @@
       <ClassDef glyph="chi" class="1"/>
       <ClassDef glyph="colon" class="1"/>
       <ClassDef glyph="comma" class="1"/>
-      <ClassDef glyph="copyright" class="1"/>
       <ClassDef glyph="d" class="1"/>
       <ClassDef glyph="e" class="1"/>
       <ClassDef glyph="eight" class="1"/>
@@ -89,17 +88,6 @@
       <ClassDef glyph="three" class="1"/>
       <ClassDef glyph="two" class="1"/>
       <ClassDef glyph="u" class="1"/>
-      <ClassDef glyph="uni0001" class="1"/>
-      <ClassDef glyph="uni0002" class="1"/>
-      <ClassDef glyph="uni0003" class="1"/>
-      <ClassDef glyph="uni0004" class="1"/>
-      <ClassDef glyph="uni0005" class="1"/>
-      <ClassDef glyph="uni009A" class="1"/>
-      <ClassDef glyph="uni009B" class="1"/>
-      <ClassDef glyph="uni009C" class="1"/>
-      <ClassDef glyph="uni009D" class="1"/>
-      <ClassDef glyph="uni009E" class="1"/>
-      <ClassDef glyph="uni009F" class="1"/>
       <ClassDef glyph="uni00AD" class="1"/>
       <ClassDef glyph="uni00B2" class="1"/>
       <ClassDef glyph="uni00B3" class="1"/>
@@ -148,7 +136,6 @@
       <ClassDef glyph="uni2168" class="1"/>
       <ClassDef glyph="uni2169" class="1"/>
       <ClassDef glyph="uni2E18" class="1"/>
-      <ClassDef glyph="uniFFF0" class="1"/>
       <ClassDef glyph="v" class="1"/>
       <ClassDef glyph="w" class="1"/>
       <ClassDef glyph="wdieresis" class="1"/>

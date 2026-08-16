@@ -22,17 +22,6 @@
     </psNames>
     <extraNames>
       <!-- following are the name that are not taken from the standard Mac glyph order -->
-      <psName name="uni0001"/>
-      <psName name="uni0002"/>
-      <psName name="uni0003"/>
-      <psName name="uni0004"/>
-      <psName name="uni0005"/>
-      <psName name="uni009A"/>
-      <psName name="uni009B"/>
-      <psName name="uni009C"/>
-      <psName name="uni009D"/>
-      <psName name="uni009E"/>
-      <psName name="uni009F"/>
       <psName name="uni00AD"/>
       <psName name="uni00B2"/>
       <psName name="uni00B3"/>
@@ -88,7 +77,6 @@
       <psName name="uni2168"/>
       <psName name="uni2169"/>
       <psName name="uni2E18"/>
-      <psName name="uniFFF0"/>
       <psName name="minus_zero.liga"/>
       <psName name="minus_one.liga"/>
       <psName name="minus_two.liga"/>

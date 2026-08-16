@@ -13,7 +13,6 @@
     <TTGlyph src="Phi_normal._g_l_y_f.chi.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.colon.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.comma.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.copyright.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.d.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.e.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.eight.ttx"/>
@@ -88,17 +87,6 @@
     <TTGlyph src="Phi_normal._g_l_y_f.three.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.two.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.u.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.uni0001.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.uni0002.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.uni0003.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.uni0004.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.uni0005.ttx"/>
-    <TTGlyph name="uni009A"/><!-- contains no outline data -->
-    <TTGlyph name="uni009B"/><!-- contains no outline data -->
-    <TTGlyph name="uni009C"/><!-- contains no outline data -->
-    <TTGlyph name="uni009D"/><!-- contains no outline data -->
-    <TTGlyph name="uni009E"/><!-- contains no outline data -->
-    <TTGlyph name="uni009F"/><!-- contains no outline data -->
     <TTGlyph src="Phi_normal._g_l_y_f.uni00A_D_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00B_2.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00B_3.ttx"/>
@@ -147,7 +135,6 @@
     <TTGlyph src="Phi_normal._g_l_y_f.uni2168.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni2169.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni2E_18.ttx"/>
-    <TTGlyph name="uniFFF0"/><!-- contains no outline data -->
     <TTGlyph src="Phi_normal._g_l_y_f.v.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.w.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.wdieresis.ttx"/>

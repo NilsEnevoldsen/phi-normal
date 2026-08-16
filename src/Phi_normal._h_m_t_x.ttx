@@ -13,7 +13,6 @@
     <mtx name="chi" width="797" lsb="0"/>
     <mtx name="colon" width="797" lsb="0"/>
     <mtx name="comma" width="541" lsb="-41"/>
-    <mtx name="copyright" width="797" lsb="112"/>
     <mtx name="d" width="797" lsb="0"/>
     <mtx name="e" width="797" lsb="0"/>
     <mtx name="eight" width="823" lsb="52"/>
@@ -88,17 +87,6 @@
     <mtx name="three" width="740" lsb="40"/>
     <mtx name="two" width="721" lsb="46"/>
     <mtx name="u" width="797" lsb="0"/>
-    <mtx name="uni0001" width="797" lsb="134"/>
-    <mtx name="uni0002" width="797" lsb="0"/>
-    <mtx name="uni0003" width="797" lsb="0"/>
-    <mtx name="uni0004" width="797" lsb="-398"/>
-    <mtx name="uni0005" width="797" lsb="0"/>
-    <mtx name="uni009A" width="797" lsb="0"/>
-    <mtx name="uni009B" width="797" lsb="0"/>
-    <mtx name="uni009C" width="797" lsb="0"/>
-    <mtx name="uni009D" width="797" lsb="0"/>
-    <mtx name="uni009E" width="797" lsb="0"/>
-    <mtx name="uni009F" width="797" lsb="0"/>
     <mtx name="uni00AD" width="797" lsb="0"/>
     <mtx name="uni00B2" width="472" lsb="32"/>
     <mtx name="uni00B3" width="522" lsb="32"/>
@@ -147,7 +135,6 @@
     <mtx name="uni2168" width="720" lsb="156"/>
     <mtx name="uni2169" width="423" lsb="-6"/>
     <mtx name="uni2E18" width="351" lsb="-245"/>
-    <mtx name="uniFFF0" width="797" lsb="0"/>
     <mtx name="v" width="797" lsb="0"/>
     <mtx name="w" width="797" lsb="0"/>
     <mtx name="wdieresis" width="797" lsb="0"/>
