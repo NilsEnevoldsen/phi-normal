@@ -3,8 +3,6 @@
 
   <hmtx>
     <mtx name=".notdef" width="666" lsb="0"/>
-    <mtx name="X" width="727" lsb="27"/>
-    <mtx name="Y" width="727" lsb="37"/>
     <mtx name="a" width="797" lsb="0"/>
     <mtx name="asciicircum" width="231" lsb="0"/>
     <mtx name="asterisk" width="797" lsb="164"/>
@@ -87,6 +85,8 @@
     <mtx name="three" width="740" lsb="40"/>
     <mtx name="two" width="721" lsb="46"/>
     <mtx name="u" width="797" lsb="0"/>
+    <mtx name="u1D4B3" width="727" lsb="27"/>
+    <mtx name="u1D4B4" width="727" lsb="37"/>
     <mtx name="uni00AD" width="797" lsb="0"/>
     <mtx name="uni00B2" width="472" lsb="32"/>
     <mtx name="uni00B3" width="522" lsb="32"/>

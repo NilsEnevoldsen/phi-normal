@@ -39,7 +39,7 @@
     <achVendID value="PfEd"/>
     <fsSelection value="00000000 10000000"/>
     <usFirstCharIndex value="32"/>
-    <usLastCharIndex value="11800"/>
+    <usLastCharIndex value="65535"/>
     <sTypoAscender value="800"/>
     <sTypoDescender value="-200"/>
     <sTypoLineGap value="90"/>

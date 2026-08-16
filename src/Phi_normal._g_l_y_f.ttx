@@ -3,8 +3,6 @@
 
   <glyf>
     <TTGlyph src="Phi_normal._g_l_y_f..notdef.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.X_.ttx"/>
-    <TTGlyph src="Phi_normal._g_l_y_f.Y_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.a.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.asciicircum.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.asterisk.ttx"/>
@@ -87,6 +85,8 @@
     <TTGlyph src="Phi_normal._g_l_y_f.three.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.two.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.u.ttx"/>
+    <TTGlyph src="Phi_normal._g_l_y_f.u1D_4B_3.ttx"/>
+    <TTGlyph src="Phi_normal._g_l_y_f.u1D_4B_4.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00A_D_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00B_2.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni00B_3.ttx"/>

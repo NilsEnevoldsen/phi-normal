@@ -3,7 +3,7 @@
   <glyf>
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
-    <TTGlyph name="X" xMin="27" yMin="135" xMax="719" yMax="550">
+    <TTGlyph name="u1D4B3" xMin="27" yMin="135" xMax="719" yMax="550">
       <contour>
         <pt x="670" y="550" on="1"/>
         <pt x="664" y="518" on="1"/>

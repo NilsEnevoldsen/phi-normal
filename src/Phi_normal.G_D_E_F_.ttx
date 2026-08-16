@@ -4,8 +4,6 @@
   <GDEF>
     <Version value="0x00010000"/>
     <GlyphClassDef>
-      <ClassDef glyph="X" class="1"/>
-      <ClassDef glyph="Y" class="1"/>
       <ClassDef glyph="a" class="1"/>
       <ClassDef glyph="asciicircum" class="1"/>
       <ClassDef glyph="asterisk" class="1"/>
@@ -88,6 +86,8 @@
       <ClassDef glyph="three" class="1"/>
       <ClassDef glyph="two" class="1"/>
       <ClassDef glyph="u" class="1"/>
+      <ClassDef glyph="u1D4B3" class="1"/>
+      <ClassDef glyph="u1D4B4" class="1"/>
       <ClassDef glyph="uni00AD" class="1"/>
       <ClassDef glyph="uni00B2" class="1"/>
       <ClassDef glyph="uni00B3" class="1"/>
