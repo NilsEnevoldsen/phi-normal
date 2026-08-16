@@ -3,25 +3,25 @@
   <glyf>
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
-    <TTGlyph name="one" xMin="72" yMin="232" xMax="753" yMax="426">
+    <TTGlyph name="one" xMin="72" yMin="225" xMax="753" yMax="419">
       <contour>
-        <pt x="72" y="426" on="1"/>
-        <pt x="131" y="388" on="1"/>
-        <pt x="234" y="344" on="1"/>
-        <pt x="618" y="280" on="1"/>
-        <pt x="753" y="292" on="1"/>
-        <pt x="679" y="327" on="1"/>
-        <pt x="448" y="365" on="1"/>
-        <pt x="300" y="398" on="1"/>
-        <pt x="214" y="414" on="1"/>
+        <pt x="72" y="419" on="1"/>
+        <pt x="131" y="381" on="1"/>
+        <pt x="234" y="337" on="1"/>
+        <pt x="618" y="273" on="1"/>
+        <pt x="753" y="285" on="1"/>
+        <pt x="679" y="320" on="1"/>
+        <pt x="448" y="358" on="1"/>
+        <pt x="300" y="391" on="1"/>
+        <pt x="214" y="407" on="1"/>
       </contour>
       <contour>
-        <pt x="257" y="267" on="1"/>
-        <pt x="365" y="232" on="1"/>
-        <pt x="331" y="279" on="1"/>
-        <pt x="273" y="323" on="1"/>
-        <pt x="185" y="407" on="1"/>
-        <pt x="80" y="421" on="1"/>
+        <pt x="257" y="260" on="1"/>
+        <pt x="365" y="225" on="1"/>
+        <pt x="331" y="272" on="1"/>
+        <pt x="273" y="316" on="1"/>
+        <pt x="185" y="400" on="1"/>
+        <pt x="80" y="414" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>
