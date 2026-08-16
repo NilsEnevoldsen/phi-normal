@@ -125,6 +125,7 @@
     <GlyphID id="119" name="minus_x.liga"/>
     <GlyphID id="120" name="u1D4E8"/>
     <GlyphID id="121" name="uni2002"/>
+    <GlyphID id="122" name="uni205A"/>
   </GlyphOrder>
 
 </ttFont>

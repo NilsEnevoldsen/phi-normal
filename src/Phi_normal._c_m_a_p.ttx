@@ -86,6 +86,7 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
+      <map code="0x205a" name="uni205A"/><!-- TWO DOT PUNCTUATION -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
@@ -99,7 +100,7 @@
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2e18" name="uni2E18"/><!-- INVERTED INTERROBANG -->
     </cmap_format_4>
-    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="568" language="0" nGroups="46">
+    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="580" language="0" nGroups="47">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -182,6 +183,7 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
+      <map code="0x205a" name="uni205A"/><!-- TWO DOT PUNCTUATION -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
@@ -282,6 +284,7 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
+      <map code="0x205a" name="uni205A"/><!-- TWO DOT PUNCTUATION -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
@@ -295,7 +298,7 @@
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2e18" name="uni2E18"/><!-- INVERTED INTERROBANG -->
     </cmap_format_4>
-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="568" language="0" nGroups="46">
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="580" language="0" nGroups="47">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -378,6 +381,7 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
+      <map code="0x205a" name="uni205A"/><!-- TWO DOT PUNCTUATION -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
