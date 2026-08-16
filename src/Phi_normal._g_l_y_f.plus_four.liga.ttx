@@ -3,7 +3,7 @@
   <glyf>
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
-    <TTGlyph name="plus_fout.liga" xMin="72" yMin="-112" xMax="774" yMax="655">
+    <TTGlyph name="plus_four.liga" xMin="72" yMin="-112" xMax="774" yMax="655">
       <contour>
         <pt x="388" y="50" on="1"/>
         <pt x="415" y="59" on="1"/>

@@ -68,7 +68,7 @@
             <Ligature components="seven" glyph="plus_seven.liga"/>
             <Ligature components="six" glyph="plus_six.liga"/>
             <Ligature components="five" glyph="plus_five.liga"/>
-            <Ligature components="four" glyph="plus_fout.liga"/>
+            <Ligature components="four" glyph="plus_four.liga"/>
             <Ligature components="three" glyph="plus_three.liga"/>
             <Ligature components="two" glyph="plus_two.liga"/>
             <Ligature components="one" glyph="plus_one.liga"/>
