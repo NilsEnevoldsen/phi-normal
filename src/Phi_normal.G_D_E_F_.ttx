@@ -158,13 +158,6 @@
       <ClassDef glyph="zcaron" class="1"/>
       <ClassDef glyph="zero" class="1"/>
     </GlyphClassDef>
-    <LigCaretList>
-      <Coverage>
-      </Coverage>
-      <!-- LigGlyphCount=0 -->
-    </LigCaretList>
-    <MarkAttachClassDef>
-    </MarkAttachClassDef>
   </GDEF>
 
 </ttFont>
