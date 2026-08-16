@@ -3,7 +3,6 @@
 
   <hmtx>
     <mtx name=".notdef" width="666" lsb="0"/>
-    <mtx name=".null" width="0" lsb="0"/>
     <mtx name="X" width="727" lsb="27"/>
     <mtx name="Y" width="727" lsb="37"/>
     <mtx name="a" width="797" lsb="0"/>
@@ -49,7 +48,6 @@
     <mtx name="minus_zero.liga" width="682" lsb="55"/>
     <mtx name="n" width="797" lsb="0"/>
     <mtx name="nine" width="828" lsb="64"/>
-    <mtx name="nonmarkingreturn" width="0" lsb="0"/>
     <mtx name="o" width="797" lsb="0"/>
     <mtx name="one" width="832" lsb="72"/>
     <mtx name="oslash" width="797" lsb="0"/>

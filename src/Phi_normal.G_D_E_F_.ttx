@@ -4,7 +4,6 @@
   <GDEF>
     <Version value="0x00010000"/>
     <GlyphClassDef>
-      <ClassDef glyph=".null" class="1"/>
       <ClassDef glyph="X" class="1"/>
       <ClassDef glyph="Y" class="1"/>
       <ClassDef glyph="a" class="1"/>
@@ -50,7 +49,6 @@
       <ClassDef glyph="minus_zero.liga" class="2"/>
       <ClassDef glyph="n" class="1"/>
       <ClassDef glyph="nine" class="1"/>
-      <ClassDef glyph="nonmarkingreturn" class="1"/>
       <ClassDef glyph="o" class="1"/>
       <ClassDef glyph="one" class="1"/>
       <ClassDef glyph="oslash" class="1"/>

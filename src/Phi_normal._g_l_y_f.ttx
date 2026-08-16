@@ -3,7 +3,6 @@
 
   <glyf>
     <TTGlyph src="Phi_normal._g_l_y_f..notdef.ttx"/>
-    <TTGlyph name=".null"/><!-- contains no outline data -->
     <TTGlyph src="Phi_normal._g_l_y_f.X_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.Y_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.a.ttx"/>
@@ -49,7 +48,6 @@
     <TTGlyph src="Phi_normal._g_l_y_f.minus_zero.liga.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.n.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.nine.ttx"/>
-    <TTGlyph name="nonmarkingreturn"/><!-- contains no outline data -->
     <TTGlyph src="Phi_normal._g_l_y_f.o.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.one.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.oslash.ttx"/>
