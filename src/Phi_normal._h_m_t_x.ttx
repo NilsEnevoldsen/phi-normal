@@ -125,7 +125,6 @@
     <mtx name="uni2087" width="596" lsb="62"/>
     <mtx name="uni2088" width="659" lsb="23"/>
     <mtx name="uni2089" width="679" lsb="39"/>
-    <mtx name="uni215F" width="580" lsb="110"/>
     <mtx name="uni2160" width="732" lsb="308"/>
     <mtx name="uni2161" width="609" lsb="88"/>
     <mtx name="uni2162" width="644" lsb="128"/>
@@ -135,6 +134,7 @@
     <mtx name="uni2166" width="596" lsb="96"/>
     <mtx name="uni2167" width="683" lsb="154"/>
     <mtx name="uni2168" width="720" lsb="156"/>
+    <mtx name="uni2180" width="580" lsb="110"/>
     <mtx name="uni2E18" width="351" lsb="-245"/>
     <mtx name="v" width="797" lsb="0"/>
     <mtx name="w" width="797" lsb="0"/>
