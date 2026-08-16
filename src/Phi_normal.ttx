@@ -13,9 +13,7 @@
   <name src="Phi_normal._n_a_m_e.ttx"/>
   <post src="Phi_normal._p_o_s_t.ttx"/>
   <gasp src="Phi_normal._g_a_s_p.ttx"/>
-  <FFTM src="Phi_normal.F_F_T_M_.ttx"/>
   <GDEF src="Phi_normal.G_D_E_F_.ttx"/>
   <GPOS src="Phi_normal.G_P_O_S_.ttx"/>
   <GSUB src="Phi_normal.G_S_U_B_.ttx"/>
-  <PfEd src="Phi_normal.P__fE__d.ttx"/>
 </ttFont>
