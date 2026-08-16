@@ -144,6 +144,7 @@
     <GlyphID id="138" name="minus_y.liga"/>
     <GlyphID id="139" name="minus_x.liga"/>
     <GlyphID id="140" name="u1D4E8"/>
+    <GlyphID id="141" name="uni2002"/>
   </GlyphOrder>
 
 </ttFont>

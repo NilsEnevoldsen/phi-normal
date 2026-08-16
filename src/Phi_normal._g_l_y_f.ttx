@@ -106,6 +106,7 @@
     <TTGlyph src="Phi_normal._g_l_y_f.uni026E_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni0274.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni0281.ttx"/>
+    <TTGlyph name="uni2002"/><!-- contains no outline data -->
     <TTGlyph src="Phi_normal._g_l_y_f.uni203D_.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni2070.ttx"/>
     <TTGlyph src="Phi_normal._g_l_y_f.uni2074.ttx"/>
