@@ -45,10 +45,8 @@
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <LigatureSubst index="0">
-          <LigatureSet glyph="hyphen">
-            <Ligature components="x" glyph="minus_x.liga"/>
+          <LigatureSet glyph="minus">
             <Ligature components="u1D4B3" glyph="minus_x.liga"/>
-            <Ligature components="y" glyph="minus_y.liga"/>
             <Ligature components="u1D4B4" glyph="minus_y.liga"/>
             <Ligature components="nine" glyph="minus_nine.liga"/>
             <Ligature components="eight" glyph="minus_eight.liga"/>
@@ -62,9 +60,7 @@
             <Ligature components="zero" glyph="minus_zero.liga"/>
           </LigatureSet>
           <LigatureSet glyph="plus">
-            <Ligature components="x" glyph="plus_x.liga"/>
             <Ligature components="u1D4B3" glyph="plus_x.liga"/>
-            <Ligature components="y" glyph="plus_y.liga"/>
             <Ligature components="u1D4B4" glyph="plus_y.liga"/>
             <Ligature components="zero" glyph="plus_zero.liga"/>
             <Ligature components="nine" glyph="plus_nine.liga"/>
