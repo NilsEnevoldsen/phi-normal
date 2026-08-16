@@ -90,9 +90,6 @@
       <ClassDef glyph="u1D4B4" class="1"/>
       <ClassDef glyph="u1D4E7" class="1"/>
       <ClassDef glyph="uni00AD" class="1"/>
-      <ClassDef glyph="uni00B2" class="1"/>
-      <ClassDef glyph="uni00B3" class="1"/>
-      <ClassDef glyph="uni00B9" class="1"/>
       <ClassDef glyph="uni0137" class="1"/>
       <ClassDef glyph="uni0163" class="1"/>
       <ClassDef glyph="uni01C6" class="1"/>
@@ -107,23 +104,6 @@
       <ClassDef glyph="uni0274" class="1"/>
       <ClassDef glyph="uni0281" class="1"/>
       <ClassDef glyph="uni203D" class="1"/>
-      <ClassDef glyph="uni2070" class="1"/>
-      <ClassDef glyph="uni2074" class="1"/>
-      <ClassDef glyph="uni2075" class="1"/>
-      <ClassDef glyph="uni2076" class="1"/>
-      <ClassDef glyph="uni2077" class="1"/>
-      <ClassDef glyph="uni2078" class="1"/>
-      <ClassDef glyph="uni2079" class="1"/>
-      <ClassDef glyph="uni2080" class="1"/>
-      <ClassDef glyph="uni2081" class="1"/>
-      <ClassDef glyph="uni2082" class="1"/>
-      <ClassDef glyph="uni2083" class="1"/>
-      <ClassDef glyph="uni2084" class="1"/>
-      <ClassDef glyph="uni2085" class="1"/>
-      <ClassDef glyph="uni2086" class="1"/>
-      <ClassDef glyph="uni2087" class="1"/>
-      <ClassDef glyph="uni2088" class="1"/>
-      <ClassDef glyph="uni2089" class="1"/>
       <ClassDef glyph="uni2160" class="1"/>
       <ClassDef glyph="uni2161" class="1"/>
       <ClassDef glyph="uni2162" class="1"/>

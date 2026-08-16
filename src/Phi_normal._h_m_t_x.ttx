@@ -90,9 +90,6 @@
     <mtx name="u1D4E7" width="423" lsb="-6"/>
     <mtx name="u1D4E8" width="432" lsb="0"/>
     <mtx name="uni00AD" width="797" lsb="0"/>
-    <mtx name="uni00B2" width="472" lsb="32"/>
-    <mtx name="uni00B3" width="522" lsb="32"/>
-    <mtx name="uni00B9" width="713" lsb="29"/>
     <mtx name="uni0137" width="797" lsb="0"/>
     <mtx name="uni0163" width="797" lsb="0"/>
     <mtx name="uni01C6" width="797" lsb="0"/>
@@ -108,23 +105,6 @@
     <mtx name="uni0281" width="797" lsb="0"/>
     <mtx name="uni2002" width="500" lsb="0"/>
     <mtx name="uni203D" width="351" lsb="-245"/>
-    <mtx name="uni2070" width="580" lsb="26"/>
-    <mtx name="uni2074" width="592" lsb="21"/>
-    <mtx name="uni2075" width="544" lsb="42"/>
-    <mtx name="uni2076" width="698" lsb="35"/>
-    <mtx name="uni2077" width="596" lsb="62"/>
-    <mtx name="uni2078" width="677" lsb="26"/>
-    <mtx name="uni2079" width="687" lsb="35"/>
-    <mtx name="uni2080" width="580" lsb="26"/>
-    <mtx name="uni2081" width="677" lsb="24"/>
-    <mtx name="uni2082" width="464" lsb="28"/>
-    <mtx name="uni2083" width="540" lsb="40"/>
-    <mtx name="uni2084" width="603" lsb="35"/>
-    <mtx name="uni2085" width="539" lsb="36"/>
-    <mtx name="uni2086" width="704" lsb="42"/>
-    <mtx name="uni2087" width="596" lsb="62"/>
-    <mtx name="uni2088" width="659" lsb="23"/>
-    <mtx name="uni2089" width="679" lsb="39"/>
     <mtx name="uni2160" width="732" lsb="308"/>
     <mtx name="uni2161" width="609" lsb="88"/>
     <mtx name="uni2162" width="644" lsb="128"/>

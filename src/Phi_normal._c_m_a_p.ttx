@@ -54,9 +54,6 @@
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
       <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
-      <map code="0xb2" name="uni00B2"/><!-- SUPERSCRIPT TWO -->
-      <map code="0xb3" name="uni00B3"/><!-- SUPERSCRIPT THREE -->
-      <map code="0xb9" name="uni00B9"/><!-- SUPERSCRIPT ONE -->
       <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
       <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
       <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
@@ -88,23 +85,6 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
-      <map code="0x2070" name="uni2070"/><!-- SUPERSCRIPT ZERO -->
-      <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
-      <map code="0x2075" name="uni2075"/><!-- SUPERSCRIPT FIVE -->
-      <map code="0x2076" name="uni2076"/><!-- SUPERSCRIPT SIX -->
-      <map code="0x2077" name="uni2077"/><!-- SUPERSCRIPT SEVEN -->
-      <map code="0x2078" name="uni2078"/><!-- SUPERSCRIPT EIGHT -->
-      <map code="0x2079" name="uni2079"/><!-- SUPERSCRIPT NINE -->
-      <map code="0x2080" name="uni2080"/><!-- SUBSCRIPT ZERO -->
-      <map code="0x2081" name="uni2081"/><!-- SUBSCRIPT ONE -->
-      <map code="0x2082" name="uni2082"/><!-- SUBSCRIPT TWO -->
-      <map code="0x2083" name="uni2083"/><!-- SUBSCRIPT THREE -->
-      <map code="0x2084" name="uni2084"/><!-- SUBSCRIPT FOUR -->
-      <map code="0x2085" name="uni2085"/><!-- SUBSCRIPT FIVE -->
-      <map code="0x2086" name="uni2086"/><!-- SUBSCRIPT SIX -->
-      <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
-      <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
-      <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
@@ -118,7 +98,7 @@
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2e18" name="uni2E18"/><!-- INVERTED INTERROBANG -->
     </cmap_format_4>
-    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="616" language="0" nGroups="50">
+    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="556" language="0" nGroups="45">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -169,9 +149,6 @@
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
       <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
-      <map code="0xb2" name="uni00B2"/><!-- SUPERSCRIPT TWO -->
-      <map code="0xb3" name="uni00B3"/><!-- SUPERSCRIPT THREE -->
-      <map code="0xb9" name="uni00B9"/><!-- SUPERSCRIPT ONE -->
       <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
       <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
       <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
@@ -203,23 +180,6 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
-      <map code="0x2070" name="uni2070"/><!-- SUPERSCRIPT ZERO -->
-      <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
-      <map code="0x2075" name="uni2075"/><!-- SUPERSCRIPT FIVE -->
-      <map code="0x2076" name="uni2076"/><!-- SUPERSCRIPT SIX -->
-      <map code="0x2077" name="uni2077"/><!-- SUPERSCRIPT SEVEN -->
-      <map code="0x2078" name="uni2078"/><!-- SUPERSCRIPT EIGHT -->
-      <map code="0x2079" name="uni2079"/><!-- SUPERSCRIPT NINE -->
-      <map code="0x2080" name="uni2080"/><!-- SUBSCRIPT ZERO -->
-      <map code="0x2081" name="uni2081"/><!-- SUBSCRIPT ONE -->
-      <map code="0x2082" name="uni2082"/><!-- SUBSCRIPT TWO -->
-      <map code="0x2083" name="uni2083"/><!-- SUBSCRIPT THREE -->
-      <map code="0x2084" name="uni2084"/><!-- SUBSCRIPT FOUR -->
-      <map code="0x2085" name="uni2085"/><!-- SUBSCRIPT FIVE -->
-      <map code="0x2086" name="uni2086"/><!-- SUBSCRIPT SIX -->
-      <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
-      <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
-      <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
@@ -288,9 +248,6 @@
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
       <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
-      <map code="0xb2" name="uni00B2"/><!-- SUPERSCRIPT TWO -->
-      <map code="0xb3" name="uni00B3"/><!-- SUPERSCRIPT THREE -->
-      <map code="0xb9" name="uni00B9"/><!-- SUPERSCRIPT ONE -->
       <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
       <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
       <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
@@ -322,23 +279,6 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
-      <map code="0x2070" name="uni2070"/><!-- SUPERSCRIPT ZERO -->
-      <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
-      <map code="0x2075" name="uni2075"/><!-- SUPERSCRIPT FIVE -->
-      <map code="0x2076" name="uni2076"/><!-- SUPERSCRIPT SIX -->
-      <map code="0x2077" name="uni2077"/><!-- SUPERSCRIPT SEVEN -->
-      <map code="0x2078" name="uni2078"/><!-- SUPERSCRIPT EIGHT -->
-      <map code="0x2079" name="uni2079"/><!-- SUPERSCRIPT NINE -->
-      <map code="0x2080" name="uni2080"/><!-- SUBSCRIPT ZERO -->
-      <map code="0x2081" name="uni2081"/><!-- SUBSCRIPT ONE -->
-      <map code="0x2082" name="uni2082"/><!-- SUBSCRIPT TWO -->
-      <map code="0x2083" name="uni2083"/><!-- SUBSCRIPT THREE -->
-      <map code="0x2084" name="uni2084"/><!-- SUBSCRIPT FOUR -->
-      <map code="0x2085" name="uni2085"/><!-- SUBSCRIPT FIVE -->
-      <map code="0x2086" name="uni2086"/><!-- SUBSCRIPT SIX -->
-      <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
-      <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
-      <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
@@ -352,7 +292,7 @@
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0x2e18" name="uni2E18"/><!-- INVERTED INTERROBANG -->
     </cmap_format_4>
-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="616" language="0" nGroups="50">
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="556" language="0" nGroups="45">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -403,9 +343,6 @@
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
       <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
-      <map code="0xb2" name="uni00B2"/><!-- SUPERSCRIPT TWO -->
-      <map code="0xb3" name="uni00B3"/><!-- SUPERSCRIPT THREE -->
-      <map code="0xb9" name="uni00B9"/><!-- SUPERSCRIPT ONE -->
       <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
       <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
       <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
@@ -437,23 +374,6 @@
       <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
       <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
       <map code="0x203d" name="uni203D"/><!-- INTERROBANG -->
-      <map code="0x2070" name="uni2070"/><!-- SUPERSCRIPT ZERO -->
-      <map code="0x2074" name="uni2074"/><!-- SUPERSCRIPT FOUR -->
-      <map code="0x2075" name="uni2075"/><!-- SUPERSCRIPT FIVE -->
-      <map code="0x2076" name="uni2076"/><!-- SUPERSCRIPT SIX -->
-      <map code="0x2077" name="uni2077"/><!-- SUPERSCRIPT SEVEN -->
-      <map code="0x2078" name="uni2078"/><!-- SUPERSCRIPT EIGHT -->
-      <map code="0x2079" name="uni2079"/><!-- SUPERSCRIPT NINE -->
-      <map code="0x2080" name="uni2080"/><!-- SUBSCRIPT ZERO -->
-      <map code="0x2081" name="uni2081"/><!-- SUBSCRIPT ONE -->
-      <map code="0x2082" name="uni2082"/><!-- SUBSCRIPT TWO -->
-      <map code="0x2083" name="uni2083"/><!-- SUBSCRIPT THREE -->
-      <map code="0x2084" name="uni2084"/><!-- SUBSCRIPT FOUR -->
-      <map code="0x2085" name="uni2085"/><!-- SUBSCRIPT FIVE -->
-      <map code="0x2086" name="uni2086"/><!-- SUBSCRIPT SIX -->
-      <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
-      <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
-      <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
       <map code="0x2160" name="uni2160"/><!-- ROMAN NUMERAL ONE -->
       <map code="0x2161" name="uni2161"/><!-- ROMAN NUMERAL TWO -->
       <map code="0x2162" name="uni2162"/><!-- ROMAN NUMERAL THREE -->
