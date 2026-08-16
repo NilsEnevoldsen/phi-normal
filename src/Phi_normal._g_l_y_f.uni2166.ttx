@@ -3,33 +3,33 @@
   <glyf>
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
-    <TTGlyph name="uni2166" xMin="96" yMin="5" xMax="569" yMax="685">
+    <TTGlyph name="uni2166" xMin="110" yMin="5" xMax="583" yMax="685">
       <contour>
-        <pt x="557" y="656" on="1"/>
-        <pt x="457" y="572" on="1"/>
-        <pt x="331" y="374" on="1"/>
-        <pt x="103" y="5" on="1"/>
-        <pt x="243" y="95" on="1"/>
-        <pt x="569" y="649" on="1"/>
+        <pt x="571" y="656" on="1"/>
+        <pt x="471" y="572" on="1"/>
+        <pt x="345" y="374" on="1"/>
+        <pt x="117" y="5" on="1"/>
+        <pt x="257" y="95" on="1"/>
+        <pt x="583" y="649" on="1"/>
       </contour>
       <contour>
-        <pt x="96" y="634" on="1"/>
-        <pt x="152" y="541" on="1"/>
-        <pt x="211" y="516" on="1"/>
-        <pt x="188" y="612" on="1"/>
-        <pt x="255" y="613" on="1"/>
-        <pt x="295" y="616" on="1"/>
-        <pt x="412" y="622" on="1"/>
-        <pt x="436" y="610" on="1"/>
-        <pt x="457" y="568" on="1"/>
-        <pt x="557" y="656" on="1"/>
-        <pt x="501" y="685" on="1"/>
-        <pt x="424" y="683" on="1"/>
-        <pt x="342" y="681" on="1"/>
-        <pt x="280" y="680" on="1"/>
-        <pt x="235" y="679" on="1"/>
-        <pt x="184" y="676" on="1"/>
-        <pt x="128" y="675" on="1"/>
+        <pt x="110" y="634" on="1"/>
+        <pt x="166" y="541" on="1"/>
+        <pt x="225" y="516" on="1"/>
+        <pt x="202" y="612" on="1"/>
+        <pt x="269" y="613" on="1"/>
+        <pt x="309" y="616" on="1"/>
+        <pt x="426" y="622" on="1"/>
+        <pt x="450" y="610" on="1"/>
+        <pt x="471" y="568" on="1"/>
+        <pt x="571" y="656" on="1"/>
+        <pt x="515" y="685" on="1"/>
+        <pt x="438" y="683" on="1"/>
+        <pt x="356" y="681" on="1"/>
+        <pt x="294" y="680" on="1"/>
+        <pt x="249" y="679" on="1"/>
+        <pt x="198" y="676" on="1"/>
+        <pt x="142" y="675" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>
