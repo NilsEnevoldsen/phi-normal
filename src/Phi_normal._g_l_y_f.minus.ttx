@@ -3,16 +3,16 @@
   <glyf>
     <!-- The xMin, yMin, xMax and yMax values
          will be recalculated by the compiler. -->
-    <TTGlyph name="minus" xMin="141" yMin="14" xMax="207" yMax="606">
+    <TTGlyph name="minus" xMin="102" yMin="275" xMax="694" yMax="341">
       <contour>
-        <pt x="165" y="14" on="1"/>
-        <pt x="141" y="113" on="1"/>
-        <pt x="141" y="491" on="1"/>
-        <pt x="189" y="606" on="1"/>
-        <pt x="206" y="481" on="1"/>
-        <pt x="207" y="339" on="1"/>
-        <pt x="206" y="279" on="1"/>
-        <pt x="204" y="107" on="1"/>
+        <pt x="694" y="299" on="1"/>
+        <pt x="595" y="275" on="1"/>
+        <pt x="217" y="275" on="1"/>
+        <pt x="102" y="323" on="1"/>
+        <pt x="227" y="340" on="1"/>
+        <pt x="369" y="341" on="1"/>
+        <pt x="429" y="340" on="1"/>
+        <pt x="601" y="338" on="1"/>
       </contour>
       <instructions/>
     </TTGlyph>
