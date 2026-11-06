@@ -1,0 +1,98 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Tag or commit to build (a tag also publishes a release)"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      stem: ${{ steps.name.outputs.stem }}
+      tag: ${{ steps.name.outputs.tag }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ inputs.ref || github.ref }}
+
+      - uses: astral-sh/setup-uv@v10
+
+      - name: Install fontTools
+        run: |
+          uv tool install "fonttools[woff]==4.68.0"
+          uv tool dir --bin >> "$GITHUB_PATH"
+
+      - name: Name the output
+        id: name
+        env:
+          REF: ${{ inputs.ref || github.ref }}
+        run: |
+          ref="${REF#refs/tags/}"
+          if git rev-parse -q --verify "refs/tags/$ref" >/dev/null; then
+            echo "stem=Phi_normal_sf_${ref#v}" >> "$GITHUB_OUTPUT"
+            echo "tag=$ref" >> "$GITHUB_OUTPUT"
+          else
+            echo "stem=Phi_normal_sf" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Fail if src/ differs from ttx roundtrip.
+      # checkSumAdjustment changes with any edit, so ignore it.
+      - name: Check that src/ is canonical
+        run: |
+          rt="$RUNNER_TEMP/roundtrip"
+          mkdir -p "$rt/dump"
+          ttx -q -b --no-recalc-timestamp -o "$rt/Phi_normal.ttf" src/Phi_normal.ttx
+          ttx -q -s -g -d "$rt/dump" "$rt/Phi_normal.ttf"
+          diff -r -I checkSumAdjustment src "$rt/dump"
+
+      # -b: keep stored bounding boxes.
+      # --no-recalc-timestamp: keep head.modified.
+      - name: Compile
+        run: |
+          mkdir -p build
+          stem="${{ steps.name.outputs.stem }}"
+          ttx -q -b --no-recalc-timestamp -o "build/$stem.ttf" src/Phi_normal.ttx
+          ttx -q -b --no-recalc-timestamp --flavor woff --with-zopfli -o "build/$stem.woff" src/Phi_normal.ttx
+          ttx -q -b --no-recalc-timestamp --flavor woff2 -o "build/$stem.woff2" src/Phi_normal.ttx
+          ls -l build
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: ${{ steps.name.outputs.stem }}
+          path: build/
+
+  release:
+    needs: build
+    if: needs.build.outputs.tag != ''
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          name: ${{ needs.build.outputs.stem }}
+          path: build/
+
+      # This job has no checkout, so read the tag message from the API.
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          TAG: ${{ needs.build.outputs.tag }}
+        run: |
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            sha=$(gh api "repos/$GH_REPO/git/ref/tags/$TAG" --jq .object.sha)
+            gh api "repos/$GH_REPO/git/tags/$sha" --jq .message > notes.md
+            gh release create "$TAG" --verify-tag --title "Phi normal ${TAG#v}" --notes-file notes.md
+          fi
+          gh release upload "$TAG" build/* --clobber
